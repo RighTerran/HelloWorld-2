@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-int numberA = 3;
-int numberB = 5;
-int result = numberA+numberB;
+double numberA = 10;
+double numberB = 4;
+double result = numberA/numberB;
 Console.WriteLine(result);

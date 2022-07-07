@@ -1,0 +1,15 @@
+C:\Users\Дмитрий\Documents\Examples\Exm001\bin\Debug\net6.0\Exm001.exe
+C:\Users\Дмитрий\Documents\Examples\Exm001\bin\Debug\net6.0\Exm001.deps.json
+C:\Users\Дмитрий\Documents\Examples\Exm001\bin\Debug\net6.0\Exm001.runtimeconfig.json
+C:\Users\Дмитрий\Documents\Examples\Exm001\bin\Debug\net6.0\Exm001.dll
+C:\Users\Дмитрий\Documents\Examples\Exm001\bin\Debug\net6.0\Exm001.pdb
+C:\Users\Дмитрий\Documents\Examples\Exm001\obj\Debug\net6.0\Exm001.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Documents\Examples\Exm001\obj\Debug\net6.0\Exm001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\Documents\Examples\Exm001\obj\Debug\net6.0\Exm001.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Documents\Examples\Exm001\obj\Debug\net6.0\Exm001.AssemblyInfo.cs
+C:\Users\Дмитрий\Documents\Examples\Exm001\obj\Debug\net6.0\Exm001.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Documents\Examples\Exm001\obj\Debug\net6.0\Exm001.dll
+C:\Users\Дмитрий\Documents\Examples\Exm001\obj\Debug\net6.0\refint\Exm001.dll
+C:\Users\Дмитрий\Documents\Examples\Exm001\obj\Debug\net6.0\Exm001.pdb
+C:\Users\Дмитрий\Documents\Examples\Exm001\obj\Debug\net6.0\Exm001.genruntimeconfig.cache
+C:\Users\Дмитрий\Documents\Examples\Exm001\obj\Debug\net6.0\ref\Exm001.dll
